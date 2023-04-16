@@ -1,4 +1,10 @@
 # DeliveryDriver
+
+#Announcement!
+You can now play this game on your web browser! Click the link here [Delivery Driver 1.0](https://yettyo.github.io/DeliveryDriver/Build1/index.html)
+> Controls: Arrow Keys for movement
+> Goal Of The Game:  Deliver 10 packages to the customers separated across the map.
+
 A 2D Unity demo game where your goal is to deliver 10 packages to the customers separated across the map. Here are some screenshots from the game.
 
 ![Main Map](https://github.com/yettyo/DeliveryDriver/blob/main/Screenshots/DD%20In-game%20screenshots/Map1.png?raw=true)
