@@ -1,7 +1,7 @@
 # DeliveryDriver
 
 #Announcement!
-You can now play this game on your web browser! Click the link here [Delivery Driver 1.0](https://yettyo.github.io/DeliveryDriver/Build1/index.html)
+You can now play this game on your web browser! Play the game here! [Delivery Driver 1.0](https://yettyo.github.io/DeliveryDriver/Build1/index.html)
 > Controls: Arrow Keys for movement
 > Goal Of The Game:  Deliver 10 packages to the customers separated across the map.
 
